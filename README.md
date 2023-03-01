@@ -1,14 +1,15 @@
 Hi 👋 My name is Niyi Adebayo
 =============================
 
-Machine Vision Engineer
+Machine Learning Engineer
 -----------------------
 
-My competencies are in developing image analysis algorithms and deep learning architectures to solve problems. I design and create platforms for image processing and visualization. I have near expert knowledge of computer vision frameworks; TensorFlow and PyTorch for dataflow and machine vision programming. I work well in an agile team environment. I have strong analytical skills and the ability to learn new concept with minimal oversight.
+My competencies are in developing computer vision algorithms and deep learning architectures to solve problems. I design and create platforms for image processing and visualization. I have near expert knowledge of computer vision frameworks; TensorFlow and PyTorch for dataflow and machine vision programming. 
+I have experience in data engineering using the following framworks: Apache Airflow, Qlink, ETL, Tableau, SQL. I am also proficient in the use of Shell Scripting, C++, Data Modeling, Flask, Docker.
+I work well in an agile team environment. I have strong analytical skills and the ability to learn new concept with minimal oversight.
 
-* 🌍  I'm based in Silicon valley of Europe; Estonia
+* 🌍  I'm based in Estonia
 * ✉️  You can contact me at [adebayoniyi2000@yahoo.com](mailto:adebayoniyi2000@yahoo.com)
-* 🧠  I'm currently learning Java script and React.
 * 🤝  I'm open to collaborating on Data engineering, embedded systems, IoT and computer vision.
 
 ### Skills
