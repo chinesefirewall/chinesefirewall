@@ -4,9 +4,26 @@ Hi 👋 My name is Niyi Adebayo
 Machine Learning Engineer
 -----------------------
 
-My competencies are in developing computer vision algorithms and deep learning architectures to solve problems. I design and create platforms for image processing and visualization. I have near expert knowledge of computer vision frameworks; TensorFlow and PyTorch for dataflow and machine vision programming. 
-I have experience in data engineering using the following framworks: Apache Airflow, Qlink, ETL, Tableau, SQL. I am also proficient in the use of Shell Scripting, C++, Data Modeling, Flask, Docker.
-I work well in an agile team environment. I have strong analytical skills and the ability to learn new concept with minimal oversight.
+My competencies include:
+
+- Developing data generation and processing pipelines using Golang, Python, and C++
+- Proficiency in working with video processing libraries and tools such as FFmpeg
+- Experience in working with configuration files (JSON) for dynamic parameterization
+- Knowledge of working with external APIs and protocols, such as FTP and FTPS
+- Implementing concurrent and parallel processing for efficient data generation and uploading
+- Building command-line interfaces (CLIs) for configuration and interaction with the data generator
+- Experience in working with CSV files for metadata management and manipulation
+- Familiarity with working with common image and video formats (JPG, MP4)
+- Understanding of data engineering principles, including data validation, transformation, and storage
+- Knowledge of version control systems like Git for code management and collaboration
+- Experience with agile development methodologies and working in collaborative team environments
+- Strong analytical and problem-solving skills to tackle complex data generation challenges
+- Ability to learn new technologies and concepts quickly, with minimal oversight
+
+In addition to the above, I also have competencies in computer vision, deep learning, data engineering frameworks (Apache Airflow, Qlink), SQL databases, data modeling, Flask web development, and Docker containerization.
+
+I am driven by a passion for creating efficient and scalable solutions for data generation and processing, and I am always eager to expand my skill set to tackle new challenges.
+
 
 * 🌍  I'm based in Estonia
 * ✉️  You can contact me at [adebayoniyi2000@yahoo.com](mailto:adebayoniyi2000@yahoo.com)
