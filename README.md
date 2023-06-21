@@ -1,12 +1,12 @@
 Hi 👋 My name is Niyi Adebayo
 =============================
 
-Machine Learning Engineer
+Data and Machine Learning Engineer
 -----------------------
 
 My competencies include:
 
-- Developing data generation and processing pipelines using Golang, Python, and C++
+- Developing data generation, ETL, and processing pipelines using Golang, Python, and C++
 - Proficiency in working with video processing libraries and tools such as FFmpeg
 - Experience in working with configuration files (JSON) for dynamic parameterization
 - Knowledge of working with external APIs and protocols, such as FTP and FTPS
@@ -27,7 +27,7 @@ I am driven by a passion for creating efficient and scalable solutions for data 
 
 * 🌍  I'm based in Estonia
 * ✉️  You can contact me at [adebayoniyi2000@yahoo.com](mailto:adebayoniyi2000@yahoo.com)
-* 🤝  I'm open to collaborating on Data engineering, embedded systems, IoT and computer vision.
+* 🤝  I'm open to collaborating on Data engineering, embedded systems, IoT, and computer vision.
 
 ### Skills
 
