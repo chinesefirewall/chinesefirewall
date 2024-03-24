@@ -6,7 +6,7 @@ Data and Machine Learning Engineer
 
 My competencies include:
 
-- Data Engineering, ETL, and processing pipelines using Golang, Python, and C++
+- Data Engineering, ETL, Data Analytics, Python, Django, Snowflake, Kafka, and DBT.
 
 - Computer vision, deep learning, data engineering frameworks (Apache Airflow, Qlink), SQL databases, data modelling, Flask web development, and Docker containerization.
 
@@ -19,13 +19,12 @@ I am driven by a passion for creating efficient and scalable solutions for data 
 ### Skills
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="48" height="48" alt="C++" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48" height="48" alt="Python" /></a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="48" height="48" alt="AWS" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="48" height="48" alt="Django" /></a>
-<a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"><img src="PLACEHOLDER_FOR_SNOWFLAKE_ICON" width="48" height="48" alt="Snowflake" /></a>
-<a href="https://www.confluent.io/" target="_blank" rel="noreferrer"><img src="PLACEHOLDER_FOR_KAFKA_ICON" width="48" height="48" alt="Kafka" /></a>
-<a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"><img src="PLACEHOLDER_FOR_DBT_ICON" width="48" height="48" alt="DBT" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48" height="48" alt="Python" /></a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="48" height="48" alt="AWS" /></a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="48" height="48" alt="Django" /></a>
+  <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" width="48" height="48" alt="Snowflake" /></a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="48" height="48" alt="Kafka" /></a>
+  <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbt/dbt-original.svg" width="48" height="48" alt="DBT" /></a>
 </p>
 
 
