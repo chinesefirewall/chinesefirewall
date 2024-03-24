@@ -15,16 +15,19 @@ I am driven by a passion for creating efficient and scalable solutions for data 
 * ✉️  You can contact me at [adebayoniyi2000@yahoo.com](mailto:adebayoniyi2000@yahoo.com)
 * 🤝  I'm open to collaborating on Data engineering, embedded systems, IoT, and computer vision.
 
+
 ### Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="48" height="48" alt="C++" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48" height="48" alt="Python" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="48" height="48" alt="PostgreSQL" /></a>
-<a href="https://golang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="Go" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="48" height="48" alt="MySQL" /></a>
-<a href="https://raw.githubusercontent.com/Brendan8c/FFMPEG_BAT/master/img/FFmpeg.png" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brendan8c/FFMPEG_BAT/master/img/FFmpeg.png" width="50" height="50" alt="FFmpeg" /></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="48" height="48" alt="AWS" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="48" height="48" alt="Django" /></a>
+<a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"><img src="PLACEHOLDER_FOR_SNOWFLAKE_ICON" width="48" height="48" alt="Snowflake" /></a>
+<a href="https://www.confluent.io/" target="_blank" rel="noreferrer"><img src="PLACEHOLDER_FOR_KAFKA_ICON" width="48" height="48" alt="Kafka" /></a>
+<a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"><img src="PLACEHOLDER_FOR_DBT_ICON" width="48" height="48" alt="DBT" /></a>
 </p>
+
 
 
 
