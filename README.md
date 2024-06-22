@@ -1,14 +1,14 @@
 Hi 👋 My name is Niyi Adebayo
 =============================
 
-Data and Machine Learning Engineer
+Data Engineer
 -----------------------
 
 My competencies include:
 
-- Data Engineering, ETL, Data Analytics, Python, Django, Snowflake, Kafka, and DBT.
+- Data Engineering, ETL, Data Analytics, Python.
 
-- Computer vision, deep learning, data engineering frameworks (Apache Airflow, Qlink), SQL databases, data modelling, Flask web development, and Docker containerization.
+- Computer vision, deep learning, data engineering frameworks, SQL databases, data modelling, Flask web development, Kubernetes and Docker containerization.
 
 I am driven by a passion for creating efficient and scalable solutions for data generation and processing, and I am always eager to expand my skill set to tackle new challenges.
 
