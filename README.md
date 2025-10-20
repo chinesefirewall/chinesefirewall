@@ -6,11 +6,11 @@ Data Engineer
 
 My competencies include:
 
-- Data Engineering, ETL, Data Analytics, Python.
+- Data Engineering, ETL, Data Analytics, dimensional data modeling, data architecture.
 
-- Computer vision, deep learning, data engineering frameworks, SQL databases, data modelling, Flask web development, Kubernetes and Docker containerization.
+- Kubernetes and Docker containerization, cloud computing.
 
-I am driven by a passion for creating efficient and scalable solutions for data generation and processing, and I am always eager to expand my skill set to tackle new challenges.
+I am driven by a passion for creating efficient and scalable solutions for data generation and processing.
 
 * ✉️  You can contact me at [adebayoniyi2000@yahoo.com](mailto:adebayoniyi2000@yahoo.com)
 * 🤝  I'm open to collaborating on Data engineering, embedded systems, IoT, and computer vision.
