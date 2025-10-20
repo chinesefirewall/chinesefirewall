@@ -14,7 +14,7 @@ My key competencies include:
 - **Cloud Computing** (AWS, Snowflake, GCP)
 - **Containerization** (Docker, Kubernetes)
 - **Automation & Orchestration** (Airflow, DBT, Python)
-- **Backend & API Development** (Flask, Django)
+- **Backend & API Development** (Flask, Fast API)
 
 I’m driven by a passion for creating **efficient**, **reliable**, and **scalable** data solutions that empower decision-making and innovation.
 
