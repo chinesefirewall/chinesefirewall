@@ -1,94 +1,29 @@
-# Hi 👋 My name is Niyi Adebayo
+# Hi 👋 My name is Niyi
 
-## Data Engineer
+# 💫 About Me:
+🛠 I’m currently working on<br> Designing and optimizing large-scale data pipelines in Snowflake, Airflow, and AWS; focused on automation, data quality, and system reliability.<br>🤝 I’m looking to collaborate on<br> High-performance data architecture, ETL/ELT design, and scalable analytical systems integrating AI and ML for predictive insights.<br>🧩 I’m looking for help with<br> Advanced real-time data streaming, event-driven architectures, and efficient multi-cloud data synchronization patterns.<br>🌱 I’m currently learning<br> Distributed systems optimization, containerized data workflows with Kubernetes, and machine learning integration in production-grade data pipelines.<br>💬 Ask me about<br> ETL architecture, orchestration frameworks, data modeling, Airflow optimization, or automating Snowflake workflows for analytics.<br>⚡ Fun fact<br> I find debugging airflow DAGs and optimizing SQL queries oddly satisfying…it’s like solving logic puzzles that improve business intelligence.
 
----
 
-### About Me
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/niyi-adebayo-b45497a4/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adebayoniyi2000@yahoo.com) 
 
-I'm a **Data Engineer** passionate about designing efficient, scalable data pipelines and systems that power analytics, insights, and automation.  
-I enjoy working across the data stack from **ETL and orchestration** to **data modeling**, **cloud infrastructure**, and **machine learning integration**.
+# 💻 Tech Stack:
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=chinesefirewall&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=chinesefirewall&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chinesefirewall&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-My key competencies include:
-- **Data Engineering**, **ETL Pipelines**, **Data Analytics**, and **Dimensional Data Modeling**
-- **Cloud Computing** (AWS, Snowflake, GCP)
-- **Containerization** (Docker, Kubernetes)
-- **Automation & Orchestration** (Airflow, DBT, Python)
-- **Backend & API Development** (Flask, Fast API)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=chinesefirewall&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-I’m driven by a passion for creating **efficient**, **reliable**, and **scalable** data solutions that empower decision-making and innovation.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
- You can reach me at [adebayoniyi2000@yahoo.com](mailto:adebayoniyi2000@yahoo.com)  
-🤝 I’m open to collaborating on **data engineering**, **embedded systems**, **IoT**, and **computer vision** projects.
-
----
-
-## ️ Skills
-
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />
-  </a>
-  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="48" height="48" alt="Airflow" />
-  </a>
-  <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/snowflake-2.svg" width="48" height="48" alt="Snowflake" />
-  </a>
-  <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" width="48" height="48" alt="dbt" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-  </a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=chinesefirewall&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=chinesefirewall&icon=4&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Socials
-
-<p align="left">
-  <a href="https://github.com/chinesefirewall" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/niyi-solomon-adebayo-b45497a4/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
-  </a>
-</p>
-
----
-
-## 🏅 Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/chinesefirewall">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinesefirewall&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="chinesefirewall's GitHub stats" />
-</a>
-
-<a href="http://www.github.com/chinesefirewall">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinesefirewall&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
-
-<a href="https://github.com/chinesefirewall">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinesefirewall&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
-
-![Snake animation](https://raw.githubusercontent.com/chinesefirewall/chinesefirewall/output/github-contribution-grid-snake.svg)
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
